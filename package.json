@@ -1,0 +1,26 @@
+{
+  "name": "mrohith29",
+  "version": "2.0.2",
+  "description": "Hi nice to see you here 😊",
+  "main": "index.mjs",
+  "bin": {
+    "mrohith29": "index.mjs"
+  },
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "cli-spinners": "^2.5.0",
+    "inquirer": "^7.3.2",
+    "open": "^7.0.4",
+    "ora": "^5.1.0",
+    "request": "^2.88.2"
+  },
+  "answer": "Mariyala Rohith"
+}

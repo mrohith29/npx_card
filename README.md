@@ -17,19 +17,19 @@ You’ll see something like:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│             MARIYALA ROHITH                                │
+│             MARIYALA ROHITH                                 │
 │                                                             │
 │       Work:  Software Developer at Orchestration Syndicate  │
 │                                                             │
 │    Twitter:  https://twitter.com/mrohith29                  │
 │     GitHub:  https://github.com/mrohith29                   │
 │   LinkedIn:  https://linkedin.com/in/mariyala-rohith        │
-│        Web:  https://rohithmariyala.com             │
+│        Web:  https://rohithmariyala.com                     │
 │                                                             │
 │       Card:  npx mrohith29                                  │
 │                                                             │
 │ I am currently looking for new opportunities,               │
-│ my inbox is always open. Whether you have a                  │
+│ my inbox is always open. Whether you have a                 │
 │ question or just want to say hi, I will try                 │
 │ my best to get back to you!                                 │
 └─────────────────────────────────────────────────────────────┘
